@@ -14,10 +14,7 @@
     "@typescript-eslint",
     "react-hooks"
   ],
-  "extends": [
-    "eslint:recommended", 
-    "eslint-config-prettier"
-  ],
+  "extends": ["eslint:recommended", "eslint-config-prettier"],
   "rules": {
     "prettier/prettier": "error",
     "curly": [2, "all"],
