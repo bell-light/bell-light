@@ -30,7 +30,6 @@
     "spaced-comment": ["error", "always", { "markers": ["/"] }],
     "react/prop-types": "off", // Disable prop-types as we use TypeScript for type checking
     "react-hooks/rules-of-hooks": 1, // Checks rules of Hooks
-    "react-hooks/exhaustive-deps": "off",
     "@typescript-eslint/explicit-function-return-type": 0,
     "@typescript-eslint/no-explicit-any": 0,
     "@typescript-eslint/no-implicit-any": 0,
